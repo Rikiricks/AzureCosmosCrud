@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "CosmosAccountEndpoint": "https://cosmos-crud-account.documents.azure.com:443/",
+    "CosmosAccountKey": "7ScFz8IlPelgfjVvFB16vfl9MUqUgAsYpXUM0wV5j04Z2itQtr0RfOkeAYB0YU3I6jo9U9oPKk2VACDbZgtGow==",
+    "CosmosDatabaseName": "db-dev-cosmos"
+  }
+}
